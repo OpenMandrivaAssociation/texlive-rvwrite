@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-rvwrite
 Version:	1.2
-Release:	3
+Release:	4
 Summary:	Increase the number of available output streams in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rvwrite
