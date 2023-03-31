@@ -1,6 +1,6 @@
 Name:		texlive-rvwrite
 Version:	19614
-Release:	1
+Release:	2
 Summary:	Increase the number of available output streams in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rvwrite
