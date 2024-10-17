@@ -3,7 +3,7 @@ Version:	19614
 Release:	2
 Summary:	Increase the number of available output streams in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rvwrite
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rvwrite
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rvwrite.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rvwrite.doc.r%{version}.tar.xz
